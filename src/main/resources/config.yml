@@ -1,10 +1,10 @@
 # BukkitTelnet v4.2 Configuration File
 
 # Address to listen on, leave blank for all
-address: ''
+address: 'hackerfreedom.mygs.co'
 
 # Port to bind to:
-port: 8765
+port: 2494
 
 # Main connection password, must be defined
 password: 'walrus'
